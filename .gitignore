@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# Build distribution files
+dist
+dist/*
+
+# I swear, if these track, I might lose it
+.DS_Store
+**/.DS_Store
+**/**/.DS_Store
+*/.DS_Store
